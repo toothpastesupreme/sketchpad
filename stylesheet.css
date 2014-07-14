@@ -1,0 +1,17 @@
+.clear{
+	text-align:center;
+    height:20px;
+	width:150px;
+	background-color:#cc0000;
+	font-family:arial;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 5px;
+	margin-bottom:5px;
+}
+
+.container, .tablebox, .clear{
+	margin-left:auto;
+	margin-right:auto;
+}
+
